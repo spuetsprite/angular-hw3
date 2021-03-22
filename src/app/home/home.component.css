@@ -1,0 +1,14 @@
+.logo-header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0px;
+    /* height: 100px; */
+    background-color: goldenrod;
+    
+}
+.topcontent{
+    background-color: goldenrod;
+}
+
+
